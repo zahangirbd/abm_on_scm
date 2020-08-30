@@ -1,2 +1,3 @@
-# abm_on_scm
-Agent-base-model on Supply Chain Networks
+# Agent-based-model (ABM) on Supply Chain Management (SCM) network
+Agent-base-model on Supply Chain Mangement networks
+
